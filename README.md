@@ -1,2 +1,2 @@
 # ENN_Toolkit
-ENN Staff (Source code, documentation)
+Here you can find the source code and documentation.
